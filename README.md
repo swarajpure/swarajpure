@@ -1,7 +1,7 @@
 # Hi there, I'm Swaraj Rajpure 👋
 
-I'm an engineering student who's going to graduate in 2022. I love web development.
-I enjoy troubleshooting 🤩
+I love software development ❤️
+I'm currently working at @smallcase as Frontend Engineering intern (July 2021 - Present).
 
 # My Tech Stack 💻
 - **Frontend**: React.js, Ember.js
