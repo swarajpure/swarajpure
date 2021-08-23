@@ -1,6 +1,7 @@
 # Hi there, I'm Swaraj Rajpure 👋
 
 I love software development ❤️
+
 I'm currently working at @smallcase as Frontend Engineering intern (July 2021 - Present).
 
 # My Tech Stack 💻
