@@ -2,7 +2,7 @@
 
 I love software development ❤️
 
-I'm currently working at @smallcase as Frontend Engineering intern (July 2021 - Present).
+I'm currently working at @smallcase as Frontend Engineering.
 
 # My Tech Stack 💻
 - **Frontend**: React.js, Ember.js
